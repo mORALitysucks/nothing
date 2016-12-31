@@ -1,0 +1,45 @@
+{
+   "room":"Chardien plug dj",
+   "author":"Dodien",
+   "icon":null,
+   "css":"https://cdn.radiant.dj/rcs/rs_room.css",
+   "rules":{
+      "allowAutorespond":true,
+      "allowAutowoot":true,
+      "allowAutojoin":true,
+      "allowAutograb":true,
+      "allowSmartVote":true,
+      "allowEmotes":true,
+      "allowShowingMehs":true,
+      "forceSmartVote":false
+   },
+   "ccc":{
+      "admin":"#00FF7F",
+      "ambassador":"#00FF7F",
+      "host":"#7FFF00",
+      "cohost":"#7FFF00",
+      "manager":"#7FFF00",
+      "bouncer":"#7FFF00",
+      "rdj":"#7FFF00",
+      "subscriber":"#FF00FF",
+      "silversubscriber":"#D3D3D3",
+      "friend":"#00FFFF",
+      "user":"#FFFFF0"
+   },
+   "images":{
+      "background":"https://vgy.me/mTkOmq.jpg",
+      "playback":null,
+      "admin":null,
+      "ambassador":"https://rawgit.com/TheStrangerGuy/EDT/master/images/BA.png",
+      "host":"https://rawgit.com/TheStrangerGuy/EDT/master/images/Host-Co-Host.png",
+      "cohost":"https://rawgit.com/TheStrangerGuy/EDT/master/images/Host-Co-Host.png",
+      "manager":null,
+      "bouncer":null,
+      "rdj":null,
+      "subscriber":null,
+      "silversubscriber":null
+   },
+   "emotes":{
+
+   }
+}
